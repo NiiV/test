@@ -1,2 +1,2 @@
-Perl script for converting exported CSV to Terrain builder format
+Perl script for converting exported CSV from FreeDee to Terrain builder format
 ====
